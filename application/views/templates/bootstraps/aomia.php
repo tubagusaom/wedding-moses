@@ -19,8 +19,8 @@
     <img class="vpc" src="<?=base_url() ?>_assets/img/demos/wedding/foto/ami_bokeh.png" alt="">
 
     <div class="textbg text-center align-self-center animated rubberBand durationtb3" data-appear-animation="rubberBand" data-appear-animation-delay="0">
-      <p class="textbg1 tb-cristtaline">Aom & Mia</p>
-      <p class="textbg2 tb-quicksand">Pernikahan | Minggu , 30 Oktober 2022</p>
+      <p class="textbg1 tb-cristtaline">Putri & Moses</p>
+      <p class="textbg2 tb-quicksand">Pernikahan | Sabtu , 8 Juni 2024</p>
     </div>
 
     <!-- <div class="text-slide">

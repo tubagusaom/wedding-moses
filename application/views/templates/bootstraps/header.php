@@ -3,7 +3,7 @@
 	<head>
 
 		<title>
-			Pernikahan - Aom & Mia
+			Pernikahan - Putri & Moses
 		</title>
 
 		<!-- Basic -->

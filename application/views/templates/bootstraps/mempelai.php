@@ -25,7 +25,7 @@
            <div class="bride-groom-infos">
              <h2 class="font-weight-normal m-none">
                <font class="text-name-tb text-color-primary">
-                 <a href="http://aom.my.id" target="_blank" style="text-decoration:none;">Aom</a>
+                 <a href="http://aom.my.id" target="_blank" style="text-decoration:none;">Moses</a>
                </font>
              </h2>
 
