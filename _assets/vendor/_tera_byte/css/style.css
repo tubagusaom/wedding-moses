@@ -50,7 +50,7 @@
 
   padding:10px;
   background:whitesmoke;
-  color: #9e632c;
+  color: #AEC9C0;
   margin-bottom:20px;
   /* border-radius: 50%; */
 
@@ -91,7 +91,7 @@
 .tbpopup-content {
   /* position: relative; */
   height: 100%;
-  /* background: #9e632c; */
+  /* background: #AEC9C0; */
   margin: auto;
   padding: 0;
   /* color: #fff; */
@@ -105,7 +105,7 @@
   /* background-image: url("<?= base_url()?>_assets/img/demos/wedding/guestbook/untitled_22.jpeg"); */
   /* background: url("../../../img/demos/wedding/guestbook/untitled_22.jpeg") no-repeat center center fixed; */
 
-  background: url("../../../img/demos/wedding/background_depan_compres.png") no-repeat center center fixed;
+  background: url("../../../img/demos/wedding/background_depan_compres.jpg") no-repeat center center fixed;
 
   background-position: center;
 
@@ -121,7 +121,7 @@
 font-size: 11px;
   padding: 1px 16px;
   color: white;
-  background: #9e632c; /* For browsers that do not support gradients */
+  background: #AEC9C0; /* For browsers that do not support gradients */
 }
 .tbpopup-main {padding: 5px 16px;}
 .tbpopup-main p{
@@ -131,7 +131,7 @@ font-size: 11px;
 font-size: 12px;
   padding: .5px 16px;
   color: #ffffff;
-  background: #9e632c; /* For browsers that do not support gradients */
+  background: #AEC9C0; /* For browsers that do not support gradients */
 }
 
 .box-content {
@@ -226,7 +226,7 @@ box-shadow: rgba(0, 0, 0, 0.2) 0px 11.3115px 40px 0px; */
     }
 
     .box-content{
-      top: 4.5em;
+      top: 13em;
       width: 85%;
       height: 625px;
     }
@@ -377,7 +377,7 @@ box-shadow: rgba(0, 0, 0, 0.2) 0px 11.3115px 40px 0px; */
   padding: 10px;
   border-radius: 4px;
 
-  background-color: #9e632c;
+  background-color: #AEC9C0;
   border-color: #90541d #90541d #bb7f47; */
 
   /* display: inline-block;
@@ -405,9 +405,9 @@ box-shadow: rgba(0, 0, 0, 0.2) 0px 11.3115px 40px 0px; */
     padding: 5px 10px 5px 10px;
     border-radius: 5px;
     margin: 8px 8px 8px 8px;
-    color: #fbdedb;
+    color: #fff;
     /* background-color: #fbdedb; */
-    background-color: #9e632c;
+    background-color: #AEC9C0;
     border-color: #90541d #90541d #bb7f47;
 
     display: inline-block;
