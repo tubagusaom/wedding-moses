@@ -50,8 +50,9 @@ color: white;
         <div class="text-color-primary" style=""> Berikan Ucapan atau Do’a </div> <br>
 
         <font class="">
-          Merupakan suatu kehormatan dan kebahagiaan bagi kami sekeluarga apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami. <br>
-          Atas kehadiran serta doa restu, kami ucapkan terima kasih.
+          <!-- Merupakan suatu kehormatan dan kebahagiaan bagi kami sekeluarga apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami. <br>
+          Atas kehadiran serta doa restu, kami ucapkan terima kasih. -->
+          Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu kepada kedua mempelai
         </font>
       </div>
     </div>
@@ -216,17 +217,17 @@ color: white;
             <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
-                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">Dan segala sesuatu kami jadikan berpasang-pasangan, supaya kamu mengingat kebesaran Allah.</p>
+                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">TERPUJILAH ALLAH SEMESTA ALAM SEBAB DENGAN KASIHNYA, IA MEMPERTEMUKAN DUA HATI YANG INGIN BERSATU DALAM PERNIKAHAN KUDUS</p>
                 </blockquote>
-                <div class="testimonial-author mt-xlg mb-xlg pb-lg">
+                <!-- <div class="testimonial-author mt-xlg mb-xlg pb-lg">
                   <p class="text-uppercase">
                     <strong class="custom-text-color-2">(QS. Adz Dzariyaat (51) : 49)</strong>
                   </p>
-                </div>
+                </div> -->
               </div>
             </div>
 
-            <div>
+            <!-- <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
                   <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg">
@@ -241,7 +242,7 @@ color: white;
                   </p>
                 </div>
               </div>
-            </div>
+            </div> -->
 
           </div>
           <div class="custom-inner-border"></div>
@@ -258,14 +259,17 @@ color: white;
       <div class="col-md-12 center">
         <p class="tb-quicksand" style="line-height:30px;">
           Terimakasih atas doa restunya <br>
-          <font style="font-size:28px;">وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</font>
+          <!-- <font style="font-size:28px;">وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</font> -->
+          <font class="text-name-tb-nobold custom-font-size-tb-1">
+            <b style="font-size:16px!important;">PUTRI</b> & <b style="font-size:16px!important;">MOSES</b>
+          </font>
 
         </p>
         <!-- <h2 class="text-name-tb-nobold custom-font-size-tb-1">
-          <b>Aom</b> <font>&</font> <b>Mia</b>
+          <b>PUTRI</b> <font>&</font> <b>MOSES</b>
         </h2> -->
 
-        <i class="icontb-aomia2 icon-aomia2 text-color-primary"></i>
+        <!-- <i class="icontb-aomia2 icon-aomia2 text-color-primary"></i> -->
       </div>
     </div>
   </div> <br> <br> <br> <br>

@@ -21,7 +21,7 @@
         </h2>
 
         <p class="tb-quicksand center" style="padding:0 15px 0 15px;" >
-          Dengan mengucap syukur kepada Tuhan Yang Maha Kuasa beserta Rahmat dan Ridho-Nya, perkenankanlah tautan cinta kami dan dengan segenap kerendahan hati, tanpa mengurangi rasa hormat. Kami mohon doa dan restu dari Bapak/Ibu/Saudara/i untuk pernikahan kami yang akan dilaksanakan pada :
+        DENGAN PENUH SYUKUR KAMI MENGUNDANG BAPAK/IBU/SAUDARA/I DALAM:
 
           <!-- Dengan mengucap syukur atas kebaikan Tuhan Yang Maha Kuasa dan dengan segenap kerendahan hati, tanpa mengurangi rasa hormat. Kami mohon doa dan restu dari Bapak/Ibu/Saudara/i untuk hadir dihari bahagia Pernikahan kami yang akan dilaksanakan pada : -->
         </p>
