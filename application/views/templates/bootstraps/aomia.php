@@ -87,14 +87,14 @@
 
 
       <div class="content_card col-md-12">
-        <h4 class="text-color-primary center">QS. Ar-Rum Ayat 21</h4>
+        <h4 class="text-color-primary center">Kolose 3:14-15</h4>
 
-        <div class="description_card tb-quicksand">
+        <!-- <div class="description_card tb-quicksand">
           <p style="font-weight:bold;text-align: right;letter-spacing:0px;" >وَمِنْ اٰيٰتِهٖٓ اَنْ خَلَقَ لَكُمْ مِّنْ اَنْفُسِكُمْ اَزْوَاجًا لِّتَسْكُنُوْٓا اِلَيْهَا وَجَعَلَ بَيْنَكُمْ مَّوَدَّةً وَّرَحْمَةً ۗاِنَّ فِيْ ذٰلِكَ لَاٰيٰتٍ لِّقَوْمٍ يَّتَفَكَّرُوْنَ</p>
-        </div>
+        </div> -->
 
         <div class="description_card tb-quicksand center" style="letter-spacing:2px;">
-          Dan di antara tanda-tanda (kebesaran)-Nya ialah Dia menciptakan pasangan-pasangan untukmu dari jenismu sendiri, agar kamu cenderung dan merasa tenteram kepadanya, dan Dia menjadikan di antaramu rasa kasih dan sayang. Sungguh, pada yang demikian itu benar-benar terdapat tanda-tanda (kebesaran Allah) bagi kaum yang berpikir.
+        Dan diatas semuanya itu: kenakanlah kasih, sebagai pengikat yang mempersatukan dan menyempurnakan. Hendaklah damai Sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.
         </div>
       </div>
     </div>

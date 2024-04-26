@@ -12,8 +12,12 @@
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <h2 class="custom-font-size-tb text-color-primary center pt-xlg">
+        <!-- <h2 class="custom-font-size-tb text-color-primary center pt-xlg">
         السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
+        </h2> -->
+
+        <h2 class="custom-font-size-tb text-color-primary center pt-xlg">
+        Acara Pernikahan
         </h2>
 
         <p class="tb-quicksand center" style="padding:0 15px 0 15px;" >
@@ -38,21 +42,21 @@
                 <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/akad.jpg" alt />
 
                 <div class="text-wedding-schedule">
-                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Akad Nikah </h1>
+                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Pemberkatan </h1>
                   <hr class="wedding-schedule-hr">
-                  <font class="text-wedding-schedule-date"> Minggu, 30 Oktober 2022 </font>
-                  <p class="text-wedding-schedule-clock"> 9:00 AM - 10:00 PM </p>
+                  <font class="text-wedding-schedule-date"> Sabtu, 8 Juni 2024 </font>
+                  <p class="text-wedding-schedule-clock"> 9:00 WIB </p>
 
                   <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
-                    Kediaman Mempelai Wanita
+                  Gereja Katolik Santo Paulus Depok
                   </span>
 
                   <p class="text-wedding-schedule-loc-2">
-                    Perum Pesona Prima Karanggan Blok A2 No.2, <br>
-                    Gunung Putri, Bogor, Jawa Barat
+                  Jl. Melati No.4, Kec. Pancoran Mas, <br>
+                  Kota Depok, Jawa Barat 16431
                   </p>
 
-                  <a class="btn btn-tb-gmaps popup-gmaps  text-uppercase" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.591846679664!2d106.88932331428427!3d-6.446417595336201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69eabd3f4e6c6f%3A0x37fe43c824da185d!2sPerum%20Pesona%20Prima!5e0!3m2!1sid!2sid!4v1665944406602!5m2!1sid!2sid">
+                  <a class="btn btn-tb-gmaps popup-gmaps  text-uppercase" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d495.6177708019616!2d106.8216091!3d-6.4014535!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e95738c8d4d5%3A0xc9f90497b45ba6f9!2sGereja%20Katolik%20Santo%20Paulus%20Depok!5e0!3m2!1sid!2sid!4v1714104587912!5m2!1sid!2sid">
                     <span>Lihat peta</span>
                     <i class="fa fa-map-marker"></i>
                   </a>
@@ -70,21 +74,21 @@
                 <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/nikah.jpeg" alt />
 
                 <div class="text-wedding-schedule">
-                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Resepsi Pernikahan </h1>
+                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Resepsi </h1>
                   <hr class="wedding-schedule-hr">
-                  <font class="text-wedding-schedule-date"> Minggu, 30 Oktober 2022 </font>
-                  <p class="text-wedding-schedule-clock"> 10:00 AM - 21:00 PM </p>
+                  <font class="text-wedding-schedule-date"> Sabtu, 8 Juni 2024 </font>
+                  <p class="text-wedding-schedule-clock"> 12.30 WIB </p>
 
                   <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
-                    Kediaman Mempelai Wanita
+                    Saung Engkong Ano
                   </span>
 
                   <p class="text-wedding-schedule-loc-2">
-                    Perum Pesona Prima Karanggan Blok A2 No.2, <br>
-                    Gunung Putri, Bogor, Jawa Barat
+                  Jalan Kampung Cikaret No.44-46, Harapan Jaya, <br>
+                  Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914
                   </p>
 
-                  <a class="btn btn-tb-gmaps popup-gmaps  text-uppercase" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.591846679664!2d106.88932331428427!3d-6.446417595336201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69eabd3f4e6c6f%3A0x37fe43c824da185d!2sPerum%20Pesona%20Prima!5e0!3m2!1sid!2sid!4v1665944406602!5m2!1sid!2sid">
+                  <a class="btn btn-tb-gmaps popup-gmaps  text-uppercase" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d991.1257771137588!2d106.8346717!3d-6.4577578!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69eb671c5a92c3%3A0xe9b1f4b22a00d9e7!2sSaung%20Engkong%20Ano!5e0!3m2!1sid!2sid!4v1714104765570!5m2!1sid!2sid">
                     <span>Lihat peta</span>
                     <i class="fa fa-map-marker"></i>
                   </a>

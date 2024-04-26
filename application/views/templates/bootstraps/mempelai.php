@@ -29,13 +29,13 @@
                </font>
              </h2>
 
-             <a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">
+             <!-- <a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">
                {&nbsp;<font class="text-name-tb" style="font-size:13px;">Ebe</font>&nbsp;}
-             </a>
+             </a> -->
 
              <p class="tb-quicksand fz-fbx-2">
                <a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">
-                 Tubagus Aom S.W.K
+               Moses Prastio Soepardi
                </a>
                <!-- Tubagus Aom <br>
                Somadiningrat <br>
@@ -47,8 +47,8 @@
              </span>
 
              <p class="mt-lg tb-quicksand fz-fbx-2">
-               Putra Pertama dari <br>
-               Bapak Mulyadi <i style="font-size:9px;">( Alm )</i> <br> dan Ibu Siti Gantini
+               Putra Ke-3 dari 5 bersaudara <br>
+               Bapak Paulus Blasius Hadi Walujo dan <br> Ibu Elisabeth Jamirah
              </p>
 
            </div>
@@ -61,13 +61,13 @@
 
            <div class="bride-groom-infos">
              <h2 class="font-weight-normal m-none">
-               <font class="text-name-tb text-color-primary">Mia</font>
+               <font class="text-name-tb text-color-primary">Putri</font>
              </h2>
 
-             <font class="text-name-tb" style="font-size:14px;"> ( Mia ) </font>
+             <!-- <font class="text-name-tb" style="font-size:14px;"> ( Mia ) </font> -->
 
              <p class="tb-quicksand fz-fbx-2">
-               Mia Amelia
+             Brigita Nugrahani Putri
              </p>
 
              <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-quicksand">
@@ -75,8 +75,8 @@
              </span>
 
              <p class="mt-lg tb-quicksand fz-fbx-2">
-               Putri Ke-3 dari <br>
-               Bapak Masinan dan <br> Ibu Nuraeini
+               Putri Ke-1 dari 3 bersaudara <br>
+               Bapak Heribertus Wagiran dan <br> Ibu Maria Sri Widayati
              </p>
            </div>
 
@@ -109,14 +109,14 @@
           <div class="bride-groom-infos">
             <h2 class="font-weight-normal m-none">
               <font class="text-name-tb text-color-primary">
-                <a href="http://aom.my.id" target="_blank" style="text-decoration:none;">Aom</a>
+                <a href="http://aom.my.id" target="_blank" style="text-decoration:none;">Moses</a>
               </font>
-              <font class="text-name-tb" style="font-size:16px;"><a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font>
+              <!-- <font class="text-name-tb" style="font-size:16px;"><a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font> -->
             </h2>
 
             <p class="tb-quicksand">
               <a href="http://aom.my.id" target="_blank" style="text-decoration:none;color:#777777">
-                Tubagus Aom Somadiningrat Wijaya Kusuma
+              Moses Prastio Soepardi
               </a>
             </p>
 
@@ -124,7 +124,7 @@
               MEMPELAI PRIA
             </span>
             <p class="mt-lg tb-quicksand fz-fbx-2">
-              Putra Pertama dari Bapak Mulyadi <i style="font-size:9px;">( Alm )</i> dan Ibu Siti Gantini
+              Putra ke-3 dari 5 bersaudara Bapak Paulus Blasius Hadi Walujo dan Ibu Elisabeth Jamirah
             </p>
           </div>
           <ul class="social-icons mt-xlg pt-sm">
@@ -157,16 +157,16 @@
           </div>
           <div class="bride-groom-infos">
             <h2 class="font-weight-normal m-none">
-              <font class="text-name-tb text-color-primary">Mia</font>
+              <font class="text-name-tb text-color-primary">Putri</font>
             </h2>
             <p class="tb-quicksand">
-              Mia Amelia
+            Brigita Nugrahani Putri
             </p>
             <span class="text-uppercase text-color-primary font-weight-semibold tb-quicksand">
               MEMPELAI WANITA
             </span>
             <p class="mt-lg tb-quicksand fz-fbx-2">
-              Putri Ke-3 dari Bapak Masinan dan Ibu Nuraeini
+              Putri Ke-1 dari 3 bersaudara Bapak Heribertus Wagiran dan Maria Sri Widayati
             </p>
           </div>
           <ul class="social-icons mt-xlg pt-sm">

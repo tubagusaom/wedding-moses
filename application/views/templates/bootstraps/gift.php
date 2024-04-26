@@ -27,7 +27,7 @@
     <div class="row pt-xlg mb-xlg pb-xlg tb-quicksand">
       <div class="col-md-12 center">
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="box-tb feature-box feature-box-style-4">
             <div class="feature-box-icon">
               <!-- <i class="fa fa-globe"></i> -->
@@ -37,11 +37,11 @@
             <div class="feature-box-info">
               <p class="mb-lg">
                 Bank BCA a.n <br>
-                TB AOM SOMADININGRAT WIJAYA K
+                MOSES PRASTIO SOEPARDI
               </p>
               <h4 class="mb-sm text-uppercase">
-                628-118844-2
-                <input type="text" id="rekBca" class="center" style="position:fixed;" value="6281188442" readonly>
+                715-121370-1
+                <input type="text" id="rekBca" class="center" style="position:fixed;" value="7151213701" readonly>
               </h4>
 
               <button onclick="copyBca()" type="button" class="btn-tb-copy" name="button">
@@ -52,7 +52,7 @@
           </div>
         </div>
 
-        <div class="col-md-4">
+        <div class="col-md-6">
           <div class="box-tb feature-box feature-box-style-4">
             <div class="feature-box-icon">
               <!-- <i class="fa fa-globe"></i> -->
@@ -61,39 +61,14 @@
             <div class="feature-box-info">
               <p class="mb-lg">
                 Bank MANDIRI a.n <br>
-                TB AOM SOMADININGRAT WIJAYA K
+                BRIGITA NUGRAHANI PUTRI
               </p>
               <h4 class="mb-sm text-uppercase">
-                07-00010-32094-8
-                <input type="text" id="rekMandiri" class="center" style="position:fixed;" value="0700010320948" readonly>
+                15-70003-78475-9
+                <input type="text" id="rekMandiri" class="center" style="position:fixed;" value="1570003784759" readonly>
               </h4>
 
               <button onclick="copyMandiri()" type="button" class="btn-tb-copy" name="button">
-                <span>copy no rekening</span>
-                <i class="fa fa-clipboard"></i>
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-4">
-          <div class="box-tb feature-box feature-box-style-4">
-            <div class="feature-box-icon">
-              <!-- <i class="fa fa-globe"></i> -->
-              <img src="<?=base_url()?>assets/img/logo_bank/logo-jenius-btpn.png" class="img-responsive img-bank-1" alt="">
-            </div>
-            <div class="feature-box-info">
-              <p class="mb-lg">
-                Bank BTPN a.n <br>
-                TB AOM SOMADININGRAT WIJAYA K
-              </p>
-              <h4 class="mb-sm text-uppercase">
-                90-23023-2421
-                <input type="text" id="rekBtpn" class="center" style="position:fixed;" value="90230232421" readonly>
-              </h4>
-
-              <!-- <input type="text" value="90230232421" id="rekBtpn" readonly> -->
-              <button onclick="copyBtpn()" type="button" class="btn-tb-copy" name="button">
                 <span>copy no rekening</span>
                 <i class="fa fa-clipboard"></i>
               </button>
@@ -135,31 +110,7 @@
           </div>
         </div> -->
 
-        <div class="col-md-4">
-          <div class="box-tb feature-box feature-box-style-4">
-            <div class="feature-box-icon">
-              <!-- <i class="fa fa-globe"></i> -->
-              <img src="<?=base_url()?>assets/img/logo_bank/logo-mandiri.png" class="img-responsive img-bank" alt="">
-            </div>
-            <div class="feature-box-info">
-              <p class="mb-lg">
-                Bank MANDIRI a.n <br>
-                MIA AMELIA
-              </p>
-              <h4 class="mb-sm text-uppercase">
-                157-00066-3608-9
-                <input type="text" id="rekMandirimia" class="center" style="position:fixed;" value="1570006636089" readonly>
-              </h4>
-
-              <button onclick="copyMandirimia()" type="button" class="btn-tb-copy" name="button">
-                <span>copy no rekening</span>
-                <i class="fa fa-clipboard"></i>
-              </button>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-md-8">
+        <div class="col-md-12">
           <div class="box-tb feature-box feature-box-style-4">
             <div class="feature-box-icon" style="margin-bottom:15px;">
               <!-- <i class="fa fa-globe"></i> -->
@@ -173,13 +124,13 @@
                 <!-- Perum Pesona Prima Karanggan Blok A2 No.2, <br>
                 Gunung Putri, Bogor, Jawa Barat -->
 
-                Jl. CARINGIN DESA KARANGGAN MUDA NO.70 RT 01 RW 04 <br>
-                GUNUNG PUTRI, BOGOR, JAWA BARAT, 16960
+                Perum Dephan Pondok Rajeg Asri Jl. Asri 5 no 3 Blok B5  <br>
+                Cibinong, Bogor
               </p>
               <h4 class="mb-sm text-uppercase">
-                MIA AMELIA
+                PUTRI
 
-                <?php $almtkirim = "Jl. CARINGIN DESA KARANGGAN MUDA NO.70 RT 01 RW 04, GUNUNG PUTRI, BOGOR, JAWA BARAT, 16960"; ?>
+                <?php $almtkirim = "Perum Dephan Pondok Rajeg Asri Jl. Asri 5 no 3 Blok B5 Cibinong, Bogor"; ?>
                 <input type="text" id="almtKirim" class="center" style="position:fixed;" value="<?=$almtkirim?>" readonly>
               </h4>
 
