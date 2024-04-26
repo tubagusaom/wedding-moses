@@ -105,6 +105,7 @@ hp
   font-size: 24px;
   background: #2b3033;
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  border-radius: 0 0 8px 0;
 }
 .nav__link:hover {
   background: #272b2e;
@@ -116,6 +117,7 @@ hp
 
 .nav__item a{
   text-decoration: none;
+  border-radius: 0px!important;
 }
 
 .nav__item span{
@@ -163,17 +165,20 @@ hp
   justify-content: center;
   align-items: center;
   z-index: 10;
-  background: #65360b;
+  background: #59bd9b;
   cursor: pointer;
   transition: all 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
 
   box-shadow: 4px 8px 8px hsl(0deg 0% 0% / 38%);
-  /* border-radius: 5px; */
+  border-radius: 0 0 8px 0;
 }
 .burger:hover {
-  background: #824710;
+  background: #AEC9C0;
   box-shadow: none;
-  border: 0.1px solid #65360b;
+  border: 0.1px solid #59bd9b;
+}
+.burger--active{
+  border-radius: 0px;
 }
 
 .burger__patty {
