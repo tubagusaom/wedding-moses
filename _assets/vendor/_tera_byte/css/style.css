@@ -483,3 +483,24 @@ box-shadow: rgba(0, 0, 0, 0.2) 0px 11.3115px 40px 0px; */
 
   transform: translate(-50%, -50%);
 }
+
+
+.text-moses{
+    font-size: 1.4em!important;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center !important;
+    color: #b07a2d !important;
+    transform: translate(-50%, -50%);
+    line-height: 30px!important;
+}
+
+@media(max-width:600px){
+  .text-moses{
+    font-size: 1.1em!important;
+    width: 300px!important;
+    line-height: 20px!important;
+  }
+}

@@ -52,8 +52,8 @@
 
   <!-- <section class="shapetb-3" ></section> -->
 
-  <div class="text-center col-md-12">
-    <img class="img-animasitb-1 spin-tb" src="<?=base_url()?>_assets/img/pink-heart-ring-icon.png" alt="">
+  <div class="text-center col-md-12" style="padding-bottom:15px">
+    <img class="img-animasitb-1 spin-tb" src="<?=base_url()?>_assets/img/love-rotation.png" alt="">
   </div>
 
   <!-- <div class="box-kata pt-md pb-xlg pl-md pr-md">

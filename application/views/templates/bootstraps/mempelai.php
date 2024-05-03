@@ -1,8 +1,8 @@
 <section id="couple" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg">
 
   <section class="triangle">
-    <h2 class="triangle-text tb-belanda text-color-primary">
-      Mempelai
+    <h2 class="text-moses">
+    TERPUJILAH ALLAH SEMESTA ALAM SEBAB DENGAN KASIHNYA, IA MEMPERTEMUKAN DUA HATI YANG INGIN BERSATU DALAM PERNIKAHAN KUDUS
     </h2>
   </section>
 
