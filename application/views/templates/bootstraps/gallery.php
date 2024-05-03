@@ -11,10 +11,6 @@
   
           <div class="row">
 						<div class="col-md-12">
-							<hr class="tall">
-
-							<h4 class="mb-none">Thumb Gallery</h4>
-							<p>Check the examples file <code>examples.gallery.js</code> for more information.</p>
 
 							<div class="row mt-xlg">
 								
