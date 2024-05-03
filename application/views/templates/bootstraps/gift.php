@@ -13,7 +13,7 @@
   <div class="container">
     <div class="row mt-xlg pt-xlg">
       <div class="col-md-8 col-md-offset-2 center">
-        <h2 class="tb-sacramento custom-font-size-tb-1 text-color-primary">
+        <h2 class="tb-sacramento custom-font-size-tb-1 text-color-primary" style="color:#b07a2d!important">
           <b>Kado Pernikahan</b>
         </h2>
         <p class="tb-quicksand text-color-primary">

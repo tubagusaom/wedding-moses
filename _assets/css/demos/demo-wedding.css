@@ -186,7 +186,7 @@
 .thumb-bride-groom .bride-groom-bg:before {
 	content: '';
 	display: block;
-	background: url(../../img/demos/wedding/bride-groom/kiri.png);
+	/* background: url(../../img/demos/wedding/bride-groom/kiri.png); */
 	background-size: 100%;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -205,7 +205,7 @@
 .thumb-bride-groom .bride-groom-bg.groom-background-style:before {
 	content: '';
 	display: block;
-	background: url(../../img/demos/wedding/bride-groom/kanan.png);
+	/* background: url(../../img/demos/wedding/bride-groom/kanan.png); */
 	background-size: 100%;
 	background-repeat: no-repeat;
 	position: absolute;
@@ -238,7 +238,7 @@
 	position: relative;
 	display: inline-block;
 	width: 80%;
-	border: 10px solid #FFF;
+	border: 10px solid #AEC9C0;
 	border-radius: 100%;
 	margin: 50px 0;
 	overflow: hidden;
@@ -327,7 +327,10 @@
 }
 
 .the-wedding-white.section {
-	background: #fff!important;
+	/* background: #fff!important; */
+	background: url(../../img/demos/wedding/background_popup.png);
+	background-size: 1100px;
+	background-repeat: no-repeat;
 	border: none;
 	z-index: 0;
 }

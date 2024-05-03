@@ -75,7 +75,7 @@ img.img-animasitb-1{
   /* -webkit-filter: grayscale(100%);
   filter: grayscale(100%); */
 
-  filter: brightness(0.65);
+  filter: brightness(0.70);
 }
 
 @media(min-width:600px){

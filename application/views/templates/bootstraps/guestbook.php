@@ -39,11 +39,11 @@ color: white;
 </style>
 
 <!-- <section class="section section-overlay custom-overlay-1 m-none pb-xlg" id="guestbook"> -->
-<section class="parallax section section-parallax section-center m-none" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="<?=base_url()?>_assets/img/demos/wedding/guestbook/untitled_22.jpeg" style="width:100%;background-repeat: no-repeat;">
+<section class="parallax section section-parallax section-center m-none" data-plugin-parallax data-plugin-options="{'speed': 1.5}" data-image-src="<?=base_url()?>_assets/img/demos/wedding/background_popup.png" style="width:100%;background-repeat: no-repeat;">
   <div class="container" id="guestbook">
     <div class="row center mt-xlg">
       <div class="col-md-12">
-        <h2 class="tb-belanda custom-font-size-1 text-color-primary">
+        <h2 class="tb-belanda custom-font-size-1 text-color-primary" style="color:#b07a2d!important">
           <b>Buku Tamu</b>
         </h2>
 
@@ -217,13 +217,13 @@ color: white;
             <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
-                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">TERPUJILAH ALLAH SEMESTA ALAM SEBAB DENGAN KASIHNYA, IA MEMPERTEMUKAN DUA HATI YANG INGIN BERSATU DALAM PERNIKAHAN KUDUS</p>
+                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia.</p>
                 </blockquote>
-                <!-- <div class="testimonial-author mt-xlg mb-xlg pb-lg">
+                <div class="testimonial-author mt-xlg mb-xlg pb-lg">
                   <p class="text-uppercase">
-                    <strong class="custom-text-color-2">(QS. Adz Dzariyaat (51) : 49)</strong>
+                    <strong class="custom-text-color-2">Matius 19:6</strong>
                   </p>
-                </div> -->
+                </div>
               </div>
             </div>
 

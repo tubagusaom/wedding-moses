@@ -16,7 +16,7 @@
         السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
         </h2> -->
 
-        <h2 class="custom-font-size-tb text-color-primary center pt-xlg">
+        <h2 class="custom-font-size-tb text-color-primary center pt-xlg" style="color:#b07a2d!important">
         Acara Pernikahan
         </h2>
 
