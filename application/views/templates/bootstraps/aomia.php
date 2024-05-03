@@ -52,7 +52,7 @@
 
   <!-- <section class="shapetb-3" ></section> -->
 
-  <div class="text-center col-md-12" style="padding-bottom:10px">
+  <div class="text-center col-md-12">
     <img class="img-animasitb-1 spin-tb" src="<?=base_url()?>_assets/img/love-rotation.png" alt="">
   </div>
 

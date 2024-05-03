@@ -105,7 +105,7 @@ class Welcome extends MY_Controller {
       // echo $data;
     }
 
-    public function index()
+    public function index($xxx=false)
     {
 
       $data['Tera_Byte_'] = 'Tera_Byte_';
