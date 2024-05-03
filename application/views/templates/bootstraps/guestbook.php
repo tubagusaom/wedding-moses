@@ -258,7 +258,7 @@ color: white;
     <div class="row">
       <div class="col-md-12 center">
         <p class="tb-quicksand" style="line-height:30px;">
-        Kami yang berbahagia <br>
+        Kami yang berbahagia keluarga besar: <br> Bapak Heribertus Wagiran & Ibu Maria Sri Widayati <br> Bapak Paulus Hadi Walujo & Ibu Elisabeth Jamirah
           <!-- <font style="font-size:28px;">وَالسَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ</font> -->
           <font class="text-name-tb-nobold custom-font-size-tb-1">
             <b style="font-size:16px!important;">PUTRI</b> & <b style="font-size:16px!important;">MOSES</b>

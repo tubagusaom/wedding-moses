@@ -15,7 +15,7 @@
 
   <div id="bg-tb" class="slidetb">
 
-    <img class="vhp" src="<?=base_url() ?>_assets/img/demos/wedding/foto/naomi.png" alt="">
+    <img class="vhp" src="<?=base_url() ?>_assets/img/prewed-moses/l3.jpg" alt="">
     <img class="vpc" src="<?=base_url() ?>_assets/img/demos/wedding/foto/ami_bokeh.png" alt="">
 
     <div class="textbg text-center align-self-center animated rubberBand durationtb3" data-appear-animation="rubberBand" data-appear-animation-delay="0">

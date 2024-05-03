@@ -57,6 +57,66 @@
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
 												</span>
 											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
+												</span>
+											</div>
 										</div>
 
 										<!-- batas -->
@@ -95,6 +155,66 @@
 											<div>
 												<span class="img-thumbnail cur-pointer">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
+												</span>
+											</div>
+											<div>
+												<span class="img-thumbnail cur-pointer">
+													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
 												</span>
 											</div>
 										</div>
