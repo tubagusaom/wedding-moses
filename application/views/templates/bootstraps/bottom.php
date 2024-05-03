@@ -61,6 +61,9 @@
 <!-- Theme Initialization Files -->
 <script src="<?=base_url()?>_assets/js/theme.init.js"></script>
 
+<!-- Examples -->
+<script src="<?=base_url()?>_assets/js/examples/examples.gallery.js"></script>
+
 <!-- <script src="<?=base_url()?>assets/js/jquery-3.6.0.min.js"></script> -->
 <!-- <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script> -->
 

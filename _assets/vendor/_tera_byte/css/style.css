@@ -105,7 +105,7 @@
   /* background-image: url("<?= base_url()?>_assets/img/demos/wedding/guestbook/untitled_22.jpeg"); */
   /* background: url("../../../img/demos/wedding/guestbook/untitled_22.jpeg") no-repeat center center fixed; */
 
-  background: url("../../../img/demos/wedding/background_depan_compres.jpg") no-repeat center center fixed;
+  background: url("../../../img/demos/wedding/background_popup.png") no-repeat center center fixed;
 
   background-position: center;
 
@@ -226,7 +226,7 @@ box-shadow: rgba(0, 0, 0, 0.2) 0px 11.3115px 40px 0px; */
     }
 
     .box-content{
-      top: 13em;
+      top: 7em;
       width: 85%;
       height: 625px;
     }

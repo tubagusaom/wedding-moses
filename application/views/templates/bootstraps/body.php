@@ -30,6 +30,7 @@
 
     <?php
       // $this->load->view("templates/bootstraps/prewed");
+      $this->load->view("templates/bootstraps/gallery");
     ?>
 
     <?php
