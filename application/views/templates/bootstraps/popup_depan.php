@@ -25,7 +25,7 @@
       <section class="jumbotron text-center">
         <div class="font-display">
           <p class="tb-mutlu font-hdr text-color-primary animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50" data-appear-animation-duration="1s">
-            Undangan Pernikahan
+           The Wedding of
           </p><br>
 
           <!-- <div class="octo">
@@ -49,7 +49,7 @@
           <h4 class="text-name-tb-nobold text-color-primary animated fadeInRight" data-appear-animation="fadeInRight" data-appear-animation-delay="50" style="font-size:30px;">
             <b>Putri</b> <font>&</font> <b>Moses</b>
           </h4>
-          <p class="pt-1 fw-bolder the-wedding-of-tgl animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50">8 Juni 2024</p>
+          <p class="pt-1 fw-bolder the-wedding-of-tgl animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50">Sabtu, 8 Juni 2024</p>
 
           <!-- <h6 class="tb-quicksand text-color-primary" data-aos="flip-right" data-aos-duration="500" data-aos-delay="50" style="text-shadow: 1px 1px 0 rgb(0 0 0 / 20%);">
             Kepada Bpk/Ibu/Saudara/i
@@ -59,7 +59,7 @@
           </h5> -->
 
           <h6 class="tb-quicksand text-shadow-tb text-color-primary animated flipInY" data-appear-animation="flipInY" data-appear-animation-delay="0" data-appear-animation-duration="3s">
-            Tanpa Mengurangi Rasa Hormat Kami Mengundang Bapak/Ibu/Soudara/i Untuk Hadir Di Acara Pernikahan Kami.
+            Tanpa mengurangi rasa hormat, kami mengundang Bapak/Ibu/Saudara/i:<br><br><br> untuk hadir di acara pernikahan kami.
           </h6>
 
           <div class="divclose animated zoomIn durationtb4">
