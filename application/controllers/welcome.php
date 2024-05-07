@@ -119,8 +119,8 @@ class Welcome extends MY_Controller {
 
       $data['Tera_Byte_'] = 'Tera_Byte_';
 
-
-      $d_undangan = explode("-",$undangan);
+      $r_undangan = str_replace("%20"," ","$undangan");
+      $d_undangan = explode("-",$r_undangan);
       $data['undangan'] = $d_undangan;
 
       // var_dump($data['undangan']); die();
