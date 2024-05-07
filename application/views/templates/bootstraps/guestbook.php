@@ -43,13 +43,13 @@ color: white;
   <div class="container" id="guestbook">
     <div class="row center mt-xlg">
       <div class="col-md-12">
-        <h2 class="tb-belanda custom-font-size-1 text-color-primary" style="color:#b07a2d!important">
+        <h2 class="tb-wedding-7 custom-font-size-1 text-color-primary" style="color:#b07a2d!important">
           <b>Buku Tamu</b>
         </h2>
 
-        <div class="text-color-primary" style=""> Berikan Ucapan atau Do’a </div> <br>
+        <div class="text-color-primary tb-montserrat-regular" style=""> Berikan Ucapan atau Do’a </div> <br>
 
-        <font class="">
+        <font class="tb-montserrat-regular">
           <!-- Merupakan suatu kehormatan dan kebahagiaan bagi kami sekeluarga apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami. <br>
           Atas kehadiran serta doa restu, kami ucapkan terima kasih. -->
           Merupakan suatu kehormatan dan kebahagiaan bagi kami apabila Bapak/Ibu/Saudara/i berkenan hadir dan memberikan doa restu kepada kedua mempelai
@@ -211,7 +211,7 @@ color: white;
         </div>
       </div>
 
-      <div class=" col-md-12 mt-xlg tb-quicksand">
+      <div class=" col-md-12 mt-xlg tb-montserrat-regular">
         <div class="bgdoa guestbook-messages background-color-light">
           <div class="owl-carousel owl-theme nav-bottom rounded-nav" data-plugin-options="{'items': 1, 'loop': false, 'dots': false, 'nav': true}">
             <div>
@@ -257,8 +257,8 @@ color: white;
   <div class="container mt-lg mb-xlg">
     <div class="row">
       <div class="col-md-12 center">
-        <p class="tb-quicksand" style="line-height:30px;">
-        Kami yang berbahagia keluarga besar:
+        <p class="tb-montserrat-regular" style="line-height:30px;">
+        Kami yang berbahagia keluarga besar: <br>
 
         <font class="text-name-tb-nobold custom-font-size-tb-1">
             <b style="font-size:16px!important;">PUTRI</b> & <b style="font-size:16px!important;">MOSES</b>

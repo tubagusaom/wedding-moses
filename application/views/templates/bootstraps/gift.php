@@ -13,11 +13,11 @@
   <div class="container">
     <div class="row mt-xlg pt-xlg">
       <div class="col-md-8 col-md-offset-2 center">
-        <h2 class="tb-wedding-7 custom-font-size-tb-1 text-color-primary" style="color:#b07a2d!important">
+        <h2 class="tb-wedding-7 custom-font-size-tb-1" style="color:#b07a2d!important">
           <b>Kado Pernikahan</b>
         </h2>
-        <p class="tb-quicksand text-color-primary">
-          Bagi keluarga dan sahabat yang ingin memberikan kado dapat melalui tautan berikut ini :
+        <p class="tb-montserrat-regular">
+          Bagi keluarga dan sahabat yang ingin memberikan kado dapat melalui tautan berikut :
         </p>
       </div>
     </div>
@@ -34,7 +34,7 @@
               <img src="<?=base_url()?>assets/img/logo_bank/logo-bca.png" class="img-responsive img-bank" alt="">
             </div>
 
-            <div class="feature-box-info">
+            <div class="feature-box-info tb-montserrat-regular">
               <p class="mb-lg">
                 Bank BCA a.n <br>
                 MOSES PRASTIO SOEPARDI
@@ -53,7 +53,7 @@
         </div>
 
         <div class="col-md-6">
-          <div class="box-tb feature-box feature-box-style-4">
+          <div class="box-tb feature-box feature-box-style-4 tb-montserrat-regular">
             <div class="feature-box-icon">
               <!-- <i class="fa fa-globe"></i> -->
               <img src="<?=base_url()?>assets/img/logo_bank/logo-mandiri.png" class="img-responsive img-bank" alt="">
@@ -114,12 +114,12 @@
           <div class="box-tb feature-box feature-box-style-4">
             <div class="feature-box-icon" style="margin-bottom:15px;">
               <!-- <i class="fa fa-globe"></i> -->
-              <h3 class="mb-sm text-uppercase ">
+              <h3 class="mb-sm text-uppercase tb-montserrat-medium">
                 Alamat Kirim Kado
               </h3>
               <!-- <img src="<?=base_url()?>assets/img/logo_bank/logo-jenius-btpn.png" class="img-responsive img-bank-1" alt=""> -->
             </div>
-            <div class="feature-box-info">
+            <div class="feature-box-info tb-montserrat-regular">
               <p class="mb-lg">
                 <!-- Perum Pesona Prima Karanggan Blok A2 No.2, <br>
                 Gunung Putri, Bogor, Jawa Barat -->
@@ -127,7 +127,7 @@
                 Perum Dephan Pondok Rajeg Asri Jl. Asri 5 no 3 Blok B5  <br>
                 Cibinong, Bogor
               </p>
-              <h4 class="mb-sm text-uppercase">
+              <h4 class="mb-sm text-uppercase tb-montserrat-medium">
                 PUTRI
 
                 <?php $almtkirim = "Perum Dephan Pondok Rajeg Asri Jl. Asri 5 no 3 Blok B5 Cibinong, Bogor"; ?>
@@ -135,7 +135,7 @@
               </h4>
 
               <!-- <input type="text" value="90230232421" id="rekBtpn" readonly> -->
-              <button onclick="copyAlamat()" type="button" class="btn-tb-copy" name="button">
+              <button onclick="copyAlamat()" type="button" class="btn-tb-copy tb-montserrat-regular" name="button">
                 <span>copy Alamat</span>
                 <i class="fa fa-clipboard"></i>
               </button>
