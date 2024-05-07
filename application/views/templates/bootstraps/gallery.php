@@ -1,7 +1,7 @@
 <section id="couple" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg">
 
     <section class="triangle">
-      <h2 class="triangle-text tb-belanda text-color-primary" style="color:#b07a2d!important">
+      <h2 class="triangle-text tb-wedding-7 text-color-primary" style="color:#b07a2d!important">
         Galeri
       </h2>
     </section>

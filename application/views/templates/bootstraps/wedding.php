@@ -16,11 +16,11 @@
         السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
         </h2> -->
 
-        <h2 class="custom-font-size-tb text-color-primary center pt-xlg" style="color:#b07a2d!important">
+        <h2 class="tb-wedding-7 custom-font-size-tb text-color-primary center pt-xlg" style="color:#b07a2d!important">
         Acara Pernikahan
         </h2>
 
-        <p class="tb-quicksand center" style="padding:0 15px 0 15px;" >
+        <p class="tb-montserrat-regular center" style="padding:0 15px 0 15px;" >
         DENGAN PENUH SYUKUR KAMI MENGUNDANG BAPAK/IBU/SAUDARA/I DALAM:
 
           <!-- Dengan mengucap syukur atas kebaikan Tuhan Yang Maha Kuasa dan dengan segenap kerendahan hati, tanpa mengurangi rasa hormat. Kami mohon doa dan restu dari Bapak/Ibu/Saudara/i untuk hadir dihari bahagia Pernikahan kami yang akan dilaksanakan pada : -->
@@ -42,21 +42,21 @@
                 <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/akad.jpg" alt />
 
                 <div class="text-wedding-schedule">
-                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Pemberkatan </h1>
+                  <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Pemberkatan </h1>
                   <hr class="wedding-schedule-hr">
-                  <font class="text-wedding-schedule-date"> Sabtu, 8 Juni 2024 </font>
-                  <p class="text-wedding-schedule-clock"> 9:00 WIB </p>
+                  <font class="text-wedding-schedule-date tb-montserrat-regular"> Sabtu, 8 Juni 2024 </font>
+                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 9:00 WIB </p>
 
-                  <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
+                  <span class="tb-montserrat-regular text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
                   Gereja Katolik Santo Paulus Depok
                   </span>
 
-                  <p class="text-wedding-schedule-loc-2">
+                  <p class="text-wedding-schedule-loc-2 tb-montserrat-regular">
                   Jl. Melati No.4, Kec. Pancoran Mas, <br>
                   Kota Depok, Jawa Barat 16431
                   </p>
 
-                  <a class="btn btn-tb-gmaps popup-gmaps  text-uppercase" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d495.6177708019616!2d106.8216091!3d-6.4014535!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e95738c8d4d5%3A0xc9f90497b45ba6f9!2sGereja%20Katolik%20Santo%20Paulus%20Depok!5e0!3m2!1sid!2sid!4v1714104587912!5m2!1sid!2sid">
+                  <a class="btn btn-tb-gmaps popup-gmaps text-uppercase" href="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d495.6177708019616!2d106.8216091!3d-6.4014535!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69e95738c8d4d5%3A0xc9f90497b45ba6f9!2sGereja%20Katolik%20Santo%20Paulus%20Depok!5e0!3m2!1sid!2sid!4v1714104587912!5m2!1sid!2sid">
                     <span>Lihat peta</span>
                     <i class="fa fa-map-marker"></i>
                   </a>
@@ -74,16 +74,16 @@
                 <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/nikah.jpeg" alt />
 
                 <div class="text-wedding-schedule">
-                  <h1 class="text-wedding-schedule-header tb-sacramento bold"> Resepsi </h1>
+                  <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Resepsi </h1>
                   <hr class="wedding-schedule-hr">
-                  <font class="text-wedding-schedule-date"> Sabtu, 8 Juni 2024 </font>
-                  <p class="text-wedding-schedule-clock"> 12.30 WIB </p>
+                  <font class="text-wedding-schedule-date tb-montserrat-regular"> Sabtu, 8 Juni 2024 </font>
+                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 12.30 WIB </p>
 
-                  <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
+                  <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold tb-montserrat-regular">
                     Saung Engkong Ano
                   </span>
 
-                  <p class="text-wedding-schedule-loc-2">
+                  <p class="text-wedding-schedule-loc-2 tb-montserrat-regular">
                   Jalan Kampung Cikaret No.44-46, Harapan Jaya, <br>
                   Kec. Cibinong, Kabupaten Bogor, Jawa Barat 16914
                   </p>

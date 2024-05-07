@@ -1,7 +1,7 @@
 <section id="couple" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg">
 
   <section class="triangle">
-    <h2 class="text-moses">
+    <h2 class="text-moses tb-montserrat-regular">
     TERPUJILAH ALLAH SEMESTA ALAM SEBAB DENGAN KASIHNYA, IA MEMPERTEMUKAN DUA HATI YANG INGIN BERSATU DALAM PERNIKAHAN KUDUS
     </h2>
   </section>
@@ -31,15 +31,15 @@
 
              <!-- <font class="text-name-tb" style="font-size:14px;"> ( Mia ) </font> -->
 
-             <p class="tb-quicksand fz-fbx-2">
+             <p class="tb-montserrat-regular fz-fbx-2">
              Brigita Nugrahani Putri
              </p>
 
-             <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-quicksand">
+             <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-montserrat-medium">
                MEMPELAI WANITA
              </span>
 
-             <p class="mt-lg tb-quicksand fz-fbx-2">
+             <p class="mt-lg tb-montserrat-regular fz-fbx-2">
                Putri Ke-1 dari 3 bersaudara <br>
                Bapak Heribertus Wagiran dan <br> Ibu Maria Sri Widayati
              </p>
@@ -63,7 +63,7 @@
                {&nbsp;<font class="text-name-tb" style="font-size:13px;">Ebe</font>&nbsp;}
              </a> -->
 
-             <p class="tb-quicksand fz-fbx-2">
+             <p class="tb-montserrat-regular fz-fbx-2">
                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
                Moses Prastio Soepardi
                </a>
@@ -72,11 +72,11 @@
                Wijaya Kusuma -->
              </p>
 
-             <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-quicksand">
+             <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-montserrat-medium">
                MEMPELAI PRIA
              </span>
 
-             <p class="mt-lg tb-quicksand fz-fbx-2">
+             <p class="mt-lg tb-montserrat-regular fz-fbx-2">
                Putra Ke-3 dari 5 bersaudara <br>
                Bapak Paulus Blasius Hadi Walujo dan <br> Ibu Elisabeth Jamirah
              </p>
@@ -114,19 +114,19 @@
           </div>
           <div class="bride-groom-infos">
             <h2 class="font-weight-normal m-none">
-              <font class="text-name-tb text-color-primary">Putri</font>
+              <font class="text-name-pm text-color-primary">Putri</font>
             </h2>
-            <p class="tb-quicksand">
+            <p class="tb-montserrat-regular">
             Brigita Nugrahani Putri
             </p>
-            <span class="text-uppercase text-color-primary font-weight-semibold tb-quicksand">
+            <span class="text-uppercase text-color-primary font-weight-semibold tb-montserrat-medium">
               MEMPELAI WANITA
             </span>
-            <p class="mt-lg tb-quicksand fz-fbx-2">
+            <p class="mt-lg tb-montserrat-regular fz-fbx-2">
               Putri Ke-1 dari 3 bersaudara Bapak Heribertus Wagiran dan Maria Sri Widayati
             </p>
           </div>
-          <ul class="social-icons mt-xlg pt-sm">
+          <!-- <ul class="social-icons mt-xlg pt-sm">
             <li class="social-icons-facebook">
               <a href="https://www.facebook.com/miia.amelia.33" target="_blank" title="Facebook">
                 <i class="fa fa-facebook"></i>
@@ -142,7 +142,7 @@
                 <i class="fa fa-instagram"></i>
               </a>
             </li>
-          </ul>
+          </ul> -->
         </div>
       </div>
 
@@ -156,26 +156,26 @@
           </div>
           <div class="bride-groom-infos">
             <h2 class="font-weight-normal m-none">
-              <font class="text-name-tb text-color-primary">
+              <font class="text-name-pm text-color-primary">
                 <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;">Moses</a>
               </font>
               <!-- <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font> -->
             </h2>
 
-            <p class="tb-quicksand">
+            <p class="tb-montserrat-regular">
               <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
               Moses Prastio Soepardi
               </a>
             </p>
 
-            <span class="text-uppercase text-color-primary font-weight-semibold tb-quicksand">
+            <span class="text-uppercase text-color-primary font-weight-semibold tb-montserrat-medium">
               MEMPELAI PRIA
             </span>
-            <p class="mt-lg tb-quicksand fz-fbx-2">
+            <p class="mt-lg tb-montserrat-regular fz-fbx-2">
               Putra ke-3 dari 5 bersaudara Bapak Paulus Blasius Hadi Walujo dan Ibu Elisabeth Jamirah
             </p>
           </div>
-          <ul class="social-icons mt-xlg pt-sm">
+          <!-- <ul class="social-icons mt-xlg pt-sm">
             <li class="social-icons-facebook">
               <a href="https://web.facebook.com/Rock.Sla.N.ker.RolL/" target="_blank" title="Facebook">
                 <i class="fa fa-facebook"></i>
@@ -191,7 +191,7 @@
                 <i class="fa fa-instagram"></i>
               </a>
             </li>
-          </ul>
+          </ul> -->
         </div>
       </div>
 
