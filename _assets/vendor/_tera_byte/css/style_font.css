@@ -48,6 +48,16 @@
   src: url(../../../file/sacramento/sacramento-regular.ttf);
 }
 
+@font-face {
+	font-family: tbWedding7;
+	src: url(../../../file/wedding_7.ttf);
+}
+
+@font-face {
+	font-family: tbWedding4;
+	src: url(../../../file/wedding_4.otf);
+}
+
 .tb-sacramento{
   display: inline-block;
 	font-family: "tbSacramento";
@@ -93,6 +103,31 @@
 
 .tb-pacifico{
 	font-family: tbPacifico!important;
+}
+
+.tb-wedding-7{
+	font-family: tbWedding7!important;
+}
+
+.tb-wedding-4{
+	font-family: tbWedding4!important;
+}
+
+
+
+.text-name-pm {
+	display: inline-block;
+	font-family: "tbWedding4";
+	font-size: 36px;
+	font-weight: bold;
+	line-height: 36px;
+	padding: 6px 0 15px;
+}
+
+.text-name-pm-nobold {
+	display: inline-block;
+	font-family: "tbWedding4";
+	padding: 6px 0 15px;
 }
 
 .text-name-tb {

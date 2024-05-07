@@ -24,7 +24,7 @@
     <div class="box-content animated bounceIn durationtb2" data-appear-animation="bounceIn" data-appear-animation-delay="0" data-appear-animation-duration="2s">
       <section class="jumbotron text-center">
         <div class="font-display">
-          <p class="tb-mutlu font-hdr text-color-primary animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50" data-appear-animation-duration="1s">
+          <p class="tb-wedding-7 font-hdr text-color-primary animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50" data-appear-animation-duration="1s">
            The Wedding of
           </p><br>
 
@@ -46,8 +46,8 @@
             <img class="imageicontb1 animated zoomIn" data-appear-animation="zoomIn" data-appear-animation-delay="50" src="<?=base_url()?>_assets/img/logo-pm-01.png" alt="" />
           </section><br>
 
-          <h4 class="text-name-tb-nobold text-color-primary animated fadeInRight" data-appear-animation="fadeInRight" data-appear-animation-delay="50" style="font-size:30px;">
-            <b>Putri</b> <font>&</font> <b>Moses</b>
+          <h4 class="text-name-pm-nobold text-color-primary animated fadeInRight" data-appear-animation="fadeInRight" data-appear-animation-delay="50" style="font-size:70px;">
+            <font>Putri</font> <font>&</font> <font>Moses</font>
           </h4>
           <p class="pt-1 fw-bolder the-wedding-of-tgl animated fadeInLeft" data-appear-animation="fadeInLeft" data-appear-animation-delay="50">Sabtu, 8 Juni 2024</p>
 
