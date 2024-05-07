@@ -15,7 +15,7 @@
 
   <div id="bg-tb" class="slidetb">
 
-    <img class="vhp" src="<?=base_url() ?>_assets/img/prewed-moses/p3.jpg" alt="">
+    <img class="vhp" src="<?=base_url() ?>_assets/img/prewed-moses/zul05378.jpg" alt="">
     <!-- <img class="vpc" src="<?=base_url() ?>_assets/img/demos/wedding/foto/ami_bokeh.png" alt=""> -->
     <img class="vpc" src="<?=base_url() ?>_assets/img/prewed-moses/le1.jpg" alt="">
 
