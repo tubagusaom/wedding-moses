@@ -16,7 +16,7 @@
         السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ
         </h2> -->
 
-        <h2 class="tb-wedding-7 custom-font-size-tb text-color-primary center pt-xlg" style="color:#b07a2d!important">
+        <h2 class="tb-wedding-7 custom-font-size-tb text-color-primary center pt-xlg bold" style="color:#b07a2d!important">
         Acara Pernikahan
         </h2>
 
@@ -39,7 +39,7 @@
             <div class="wedding-schedule-tb center appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="0">
 
               <div class="wedding-schedule-photo-tb">
-                <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/akad.jpg" alt />
+                <img src="<?=base_url()?>_assets/img/gpd.jpg" alt />
 
                 <div class="text-wedding-schedule">
                   <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Pemberkatan </h1>
@@ -71,7 +71,7 @@
             <div class="wedding-schedule-tb center appear-animation" data-appear-animation="fadeInRight" data-appear-animation-delay="0">
 
               <div class="wedding-schedule-photo-tb">
-                <img src="<?=base_url()?>_assets/img/demos/wedding/the-wedding/nikah.jpeg" alt />
+                <img src="<?=base_url()?>_assets/img/se.jpg" alt />
 
                 <div class="text-wedding-schedule">
                   <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Resepsi </h1>

@@ -1,4 +1,4 @@
-<section id="couple" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg">
+<section id="galeri" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg">
 
     <section class="triangle">
       <h2 class="triangle-text tb-wedding-7 text-color-primary" style="color:#b07a2d!important">

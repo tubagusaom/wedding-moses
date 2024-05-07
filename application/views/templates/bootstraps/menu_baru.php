@@ -29,7 +29,8 @@
     </li>
 
     <li class="nav__item">
-      <a href="javascript:void(0)" onclick="menuGalery()" class="nav__link c-red" menuid-tb="photos">
+      <!-- <a href="javascript:void(0)" onclick="menuGalery()" class="nav__link c-red" menuid-tb="photos"> -->
+      <a href="javascript:void(0)" class="nav__link c-red" menuid-tb="galeri">
         <i class="fa fa-picture-o"></i>
         <span class="c-red">Galeri</span>
 
