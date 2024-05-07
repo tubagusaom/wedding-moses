@@ -38,7 +38,13 @@
 |
 */
 
-$route['default_controller'] = "welcome";
+$route['default_controller'] = "welcome/tera_byte";
+$route['putri-moses'] = "welcome/index/";
+$route['putri-moses/(:any)'] = "welcome/index/$1";
+
+$route['tamu-undangan'] = "welcome/tamu_undangan";
+$route['undangan'] = "welcome/tamu_undangan";
+
 $route['404_override'] = '';
 
 $route['aboutus/(:any)'] = "aboutus/index/$1";
@@ -57,7 +63,6 @@ $route['data-member/dokumen/(:any)'] = "mapping_appraisal/dokumen/$1";
 $route['data-member/tambah-dokumen/(:any)'] = "mapping_appraisal/tambah_dokumen/$1";
 $route['simpan-dokumen'] = "mapping_appraisal/save";
 $route['simpan-laporan'] = "mapping_appraisal/simpan";
-$route['undangan'] = "welcome/tamu_undangan";
 
 // showroom
 

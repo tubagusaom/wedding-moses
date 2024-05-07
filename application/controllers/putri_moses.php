@@ -1,6 +1,6 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
-class Welcome extends MY_Controller {
+class Putri_moses extends MY_Controller {
     function __construct()
     {
         parent::__construct();
@@ -13,16 +13,6 @@ class Welcome extends MY_Controller {
         $this->load->library('curl');
         $this->load->helper('cookie');
 
-    }
-
-    function tera_byte(){
-
-      header('Access-Control-Allow-Origin:*');
-      header('Access-Control-Allow-Methods: GET, POST, OPTIONS, PUT, DELETE');
-      header('Access-Control-Allow-Headers: Content-Type, Content-Length, Accept-Encoding');
-
-      $data['@'] ='terabytee' ;
-      echo json_encode($data);
     }
 
 
@@ -115,15 +105,10 @@ class Welcome extends MY_Controller {
       // echo $data;
     }
 
-    public function index($undangan=false) {
+    public function index($xxx=false)
+    {
 
       $data['Tera_Byte_'] = 'Tera_Byte_';
-
-
-      $d_undangan = explode("-",$undangan);
-      $data['undangan'] = $d_undangan;
-
-      // var_dump($data['undangan']); die();
 
       $someJSON = read_file('./application/views/files/ucapan.php');
 

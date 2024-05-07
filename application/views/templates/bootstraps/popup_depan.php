@@ -58,8 +58,27 @@
             Akhi & Ukhti
           </h5> -->
 
-          <h6 class="tb-montserrat-regular text-shadow-tb text-color-primary animated flipInY" data-appear-animation="flipInY" data-appear-animation-delay="0" data-appear-animation-duration="3s">
-            Tanpa mengurangi rasa hormat, kami mengundang Bapak/Ibu/Saudara/i:<br><br><br> untuk hadir di acara pernikahan kami.
+
+          <h6 class="tb-montserrat-regular text-shadow-tb text-color-primary animated flipInY" data-appear-animation="flipInY" data-appear-animation-delay="0" data-appear-animation-duration="3s" style="padding-bottom:0px!important">
+            Tanpa mengurangi rasa hormat, kami mengundang Bapak/Ibu/Saudara/i:
+          </h6>
+
+          <h5 class="tb-montserrat-regular" data-aos="flip-left" data-aos-duration="500" data-aos-delay="50" style="text-shadow: 1px 1px 0 rgb(0 0 0 / 20%);margin:0px!important">
+            <?php
+              if (!empty($undangan[0])) {
+                // echo $undangan[0];
+                if (!empty($undangan[1])) {
+                  echo $undangan[0] . " & " . $undangan[1];
+                }else{
+                  echo $undangan[0];
+                }
+              }
+
+            ?>
+          </h5>
+
+          <h6 class="tb-montserrat-regular text-shadow-tb text-color-primary animated flipInY" data-appear-animation="flipInY" data-appear-animation-delay="0" data-appear-animation-duration="3s" style="padding-bottom:0px!important">
+            untuk hadir di acara pernikahan kami.
           </h6>
 
           <div class="divclose animated zoomIn durationtb4">
