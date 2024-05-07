@@ -39,7 +39,7 @@ color: white;
 </style>
 
 <!-- <section class="section section-overlay custom-overlay-1 m-none pb-xlg" id="guestbook"> -->
-<section class="parallax section section-parallax section-center m-none the-wedding-white" data-plugin-parallax data-plugin-options="{'speed': 1.5}" style="width:100%;background-repeat: no-repeat;">
+<section class="parallax section section-parallax section-center m-none" data-plugin-parallax data-plugin-options="{'speed': 1.5}" style="width:100%;background-repeat: no-repeat;">
 <!-- <section id="galeri" class="the-wedding-white section section-overlay custom-overlay-1 m-none p-none pb-xlg"> -->
   <div class="container" id="guestbook">
     <div class="row center mt-xlg">
@@ -48,7 +48,7 @@ color: white;
           <b>Buku Tamu</b>
         </h2>
 
-        <div class="tb-montserrat-regular"> Berikan Ucapan atau Do’a </div> <br>
+        <div class="tb-montserrat-medium"> Berikan Ucapan atau Do’a </div> <br>
 
         <font class="tb-montserrat-regular">
           <!-- Merupakan suatu kehormatan dan kebahagiaan bagi kami sekeluarga apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami. <br>
