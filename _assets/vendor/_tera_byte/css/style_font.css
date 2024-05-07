@@ -58,6 +58,18 @@
 	src: url(../../../file/wedding_4.otf);
 }
 
+@font-face {
+	font-family: tbMontserratmedium;
+	src: url(../../../file/montserrat-medium.otf);
+}
+
+@font-face {
+	font-family: tbMontserratregular;
+	src: url(../../../file/montserrat-regular.otf);
+}
+
+/* batas */
+
 .tb-sacramento{
   display: inline-block;
 	font-family: "tbSacramento";
@@ -111,6 +123,14 @@
 
 .tb-wedding-4{
 	font-family: tbWedding4!important;
+}
+
+.tb-montserrat-medium{
+	font-family: tbMontserratmedium!important;
+}
+
+.tb-montserrat-regular{
+	font-family: tbMontserratregular!important;
 }
 
 
