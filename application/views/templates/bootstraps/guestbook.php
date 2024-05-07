@@ -260,8 +260,8 @@ color: white;
         <p class="tb-montserrat-regular" style="line-height:30px;">
         Kami yang berbahagia keluarga besar: <br>
 
-        <font class="text-name-tb-nobold custom-font-size-tb-1">
-            <b style="font-size:16px!important;">PUTRI</b> & <b style="font-size:16px!important;">MOSES</b>
+        <font class="tb-wedding-4 text-name-tb-nobold">
+            <b class="">PUTRI & MOSES</b>
           </font>
         
         <br> Bapak Heribertus Wagiran & Ibu Maria Sri Widayati <br> Bapak Paulus Hadi Walujo & Ibu Elisabeth Jamirah
