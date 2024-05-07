@@ -44,7 +44,7 @@
                 <input type="text" id="rekBca" class="center" style="position:fixed;" value="7151213701" readonly>
               </h4>
 
-              <button onclick="copyBca()" type="button" class="btn-tb-copy" name="button">
+              <button onclick="copyBca()" type="button" class="btn-tb-wishes" name="button">
                 <span>copy no rekening</span>
                 <i class="fa fa-clipboard"></i>
               </button>
@@ -68,7 +68,7 @@
                 <input type="text" id="rekMandiri" class="center" style="position:fixed;" value="1570003784759" readonly>
               </h4>
 
-              <button onclick="copyMandiri()" type="button" class="btn-tb-copy" name="button">
+              <button onclick="copyMandiri()" type="button" class="btn-tb-wishes" name="button">
                 <span>copy no rekening</span>
                 <i class="fa fa-clipboard"></i>
               </button>
@@ -135,7 +135,7 @@
               </h4>
 
               <!-- <input type="text" value="90230232421" id="rekBtpn" readonly> -->
-              <button onclick="copyAlamat()" type="button" class="btn-tb-copy tb-montserrat-regular" name="button">
+              <button onclick="copyAlamat()" type="button" class="btn-tb-wishes tb-montserrat-regular" name="button">
                 <span>copy Alamat</span>
                 <i class="fa fa-clipboard"></i>
               </button>

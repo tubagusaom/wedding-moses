@@ -47,7 +47,7 @@ color: white;
           <b>Buku Tamu</b>
         </h2>
 
-        <div class="text-color-primary tb-montserrat-regular" style=""> Berikan Ucapan atau Do’a </div> <br>
+        <div class="tb-montserrat-regular" style="color:#b07a2d!important"> Berikan Ucapan atau Do’a </div> <br>
 
         <font class="tb-montserrat-regular">
           <!-- Merupakan suatu kehormatan dan kebahagiaan bagi kami sekeluarga apabila Bapak/Ibu/Saudara/i berkenan hadir untuk memberikan doa restu kepada kami. <br>
