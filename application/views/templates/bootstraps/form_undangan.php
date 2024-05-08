@@ -59,7 +59,8 @@
     }
 
     var outPut = document.getElementById('dataoutput').value = baseUrl + '/' + datas + dataPasangan;
-    outPut=outPut.replace(" ","%20");
+    outPut=outPut.replace(/ /g,"%20");
+    // outPut.replace(" ", "%20");
 
     // alert(outPut);
     navigator.clipboard.writeText(outPut);
