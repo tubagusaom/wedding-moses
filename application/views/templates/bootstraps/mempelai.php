@@ -108,7 +108,7 @@
         <div class="thumb-bride-groom center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="300">
           <div class="bride-groom-bg groom-background-style">
             <div class="bride-groom-photo">
-              <img src="<?=base_url()?>_assets/img/demos/wedding/foto/mia1.jpeg" alt />
+              <img src="<?=base_url()?>_assets/img/prewed-moses/p.jpg" alt />
               <!-- <img src="<?=base_url()?>_assets/img/demos/wedding/bride-groom/groom.jpg" alt /> -->
             </div>
           </div>
@@ -150,7 +150,7 @@
         <div class="thumb-bride-groom center appear-animation" data-appear-animation="fadeIn" data-appear-animation-delay="0">
           <div class="bride-groom-bg">
             <div class="bride-groom-photo">
-              <img src="<?=base_url()?>_assets/img/demos/wedding/foto/aom2.jpeg" alt />
+              <img src="<?=base_url()?>_assets/img/prewed-moses/m.jpg" alt />
               <!-- <img src="<?=base_url()?>_assets/img/demos/wedding/bride-groom/groom.jpg" alt /> -->
             </div>
           </div>

@@ -17,7 +17,7 @@
 
     <img class="vhp" src="<?=base_url() ?>_assets/img/prewed-moses/zul05378.jpg" alt="">
     <!-- <img class="vpc" src="<?=base_url() ?>_assets/img/demos/wedding/foto/ami_bokeh.png" alt=""> -->
-    <img class="vpc" src="<?=base_url() ?>_assets/img/prewed-moses/le1.jpg" alt="">
+    <img class="vpc" src="<?=base_url() ?>_assets/img/prewed-moses/nl4.jpg" alt="">
 
     <div class="textbg text-center align-self-center animated rubberBand durationtb3" data-appear-animation="rubberBand" data-appear-animation-delay="0">
       <p class="textbg1 tb-wedding-4">Putri & Moses</p>

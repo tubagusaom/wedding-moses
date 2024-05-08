@@ -334,7 +334,7 @@
 
 @media(min-width:800px) and (max-width: 1200px){
   #bg-tb .textbg{
-    top: 290px!important;
+    top: 60px!important;
   }
 
   #bg-tb .textbg .textbg1 {
@@ -350,11 +350,11 @@
 /* pc mac */
 @media(min-width:1200px){
   #bg-tb .textbg{
-    top: 480px!important;
+    top: 500px!important;
   }
 
   #bg-tb .textbg .textbg1 {
-    font-size: 65px!important;
+    font-size: 120px!important;
   }
 
   #bg-tb .textbg .textbg2 {
