@@ -707,20 +707,20 @@
 	color: #ddd;
 	/* color: #9e632c; */
 
-	font-size: 28px;
+	font-size: 38px;
 	margin: 0px;
 	line-height: 24px;
 }
 
 .text-wedding-schedule .text-wedding-schedule-date{
 	color: #eee;
-	font-size: 11px;
+	font-size: 13px;
 	margin: 0px;
 }
 
 .text-wedding-schedule .text-wedding-schedule-clock{
 	color: #eee;
-	font-size: 11px;
+	font-size: 13px;
 	margin: 0px;
 	line-height: 7px;
 	padding-bottom: 20px;
@@ -728,7 +728,7 @@
 
 .text-wedding-schedule .text-wedding-schedule-loc-1{
 	color: #ccc;
-	font-size: 9px;
+	font-size: 11px;
 	margin: 0px;
 	/* line-height: 80px; */
 }
