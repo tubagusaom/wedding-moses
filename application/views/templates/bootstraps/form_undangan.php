@@ -59,6 +59,7 @@
     }
 
     var outPut = document.getElementById('dataoutput').value = baseUrl + '/' + datas + dataPasangan;
+    outPut=outPut.replace(" ","%20");
 
     // alert(outPut);
     navigator.clipboard.writeText(outPut);
