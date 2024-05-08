@@ -157,7 +157,7 @@
           <div class="bride-groom-infos">
             <h2 class="font-weight-normal m-none">
               <font class="text-name-pm text-color-primary">
-                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;">Moses</a>
+                Moses
               </font>
               <!-- <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font> -->
             </h2>
