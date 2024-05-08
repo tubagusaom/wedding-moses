@@ -6,8 +6,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="<?=base_url()?>_assets/img/demos/wedding/foto/icon-aom-mia.png" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="<?=base_url().'_assets/img/demos/wedding/foto/icon-aom-mia.png'?>">
+  <link rel="shortcut icon" href="<?=base_url()?>_assets/img/terabyte_icon.png" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="<?=base_url().'_assets/img/terabyte_icon.png'?>">
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
