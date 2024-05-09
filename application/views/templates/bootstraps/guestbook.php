@@ -64,6 +64,7 @@ color: white;
           <div class="form-content">
 
           <?php
+              $n_undang = "";
               if (!empty($undangan[0])) {
                 // echo $undangan[0];
                 if (!empty($undangan[1])) {
