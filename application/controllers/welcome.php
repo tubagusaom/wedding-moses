@@ -94,10 +94,9 @@ class Welcome extends MY_Controller {
       $data['os'] = $this->agent->platform();
       $data['ip_address'] = $this->tb_getip();
 
-      $data['SHELL_USERNAME'] = shell_exec('whoami');
-      $data['EXEC_USERNAME'] = exec('whoami');
-      $data['AUTH_USERNAME'] = shell_exec("wmic computersystem get username");
-      $data['gethostname'] = gethostname();
+      $data['EXEC_USERNAME'] = exec();
+      $data['AUTH_USERNAME'] = shell_exec();
+      $data['gethostname'] = getenv();
 
       $convjsn = json_encode($data);
 
