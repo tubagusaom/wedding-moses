@@ -161,7 +161,7 @@ color: white;
                             $bg_confirm = "#935317";
                             $bg_color = "#fff";
                           }else {
-                            $view_confirm =  "<b>.......</b>";
+                            $view_confirm =  ".......";
                             $bg_confirm = "#bbb";
                             $bg_color = "#333";
                           }
