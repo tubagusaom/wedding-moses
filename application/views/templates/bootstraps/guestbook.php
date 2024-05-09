@@ -61,13 +61,25 @@ color: white;
     <div class="row mb-xlg">
       <div class="col-md-6 mt-xlg tb-quicksand">
         <form id="guestbookSendMessage" action="<?=base_url()?>welcome/upload_ajax" method="POST" class="bgmesage background-color-light p-lg">
-          <div class="form-content"> 
+          <div class="form-content">
+
+          <?php
+              if (!empty($undangan[0])) {
+                // echo $undangan[0];
+                if (!empty($undangan[1])) {
+                  $n_undang = $undangan[0] . " & " . $undangan[1];
+                }else{
+                  $n_undang = $undangan[0];
+                }
+              }
+
+            ?>
 
             <div class="col-xs-10 col-sm-8 col-md-8 col-xs-offset-1 col-sm-offset-2 col-md-offset-2">
 
               <div class="form-control-custom mt-md">
                 <input type="hidden" name="idPengunjung" value="<?=count($arraydata)+1?>" id="idPengunjung">
-                <input type="text" class="form-control p-none" name="guestbookName" placeholder="Isikan Nama Anda*" data-msg-required="Masukan Nama." id="guestbookName" required="" />
+                <input type="text" class="form-control p-none" name="guestbookName" placeholder="Isikan Nama Anda*" data-msg-required="Masukan Nama." id="guestbookName" required="" value="<?=$n_undang?>" />
               </div>
               <!-- <div class="form-control-custom mt-md">
                 <input type="email" class="form-control p-none" name="guestbookEmail" placeholder="Email*" data-msg-required="Masukan Email." id="guestbookEmail" required="" />
