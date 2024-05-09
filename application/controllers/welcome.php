@@ -94,17 +94,6 @@ class Welcome extends MY_Controller {
       $data['os'] = $this->agent->platform();
       $data['ip_address'] = $this->tb_getip();
 
-      exec("ipconfig /all", $output);
-      foreach($output as $line){
-        if (preg_match("/(.*)IPv4 Address(.*)/", $line)){
-          $ip = $line;
-          $ip = str_replace("IPv4 Address. . . . . . . . . . . :","",$ip);
-          $ip = str_replace("(Preferred)","",$ip); }
-        }
-
-      $IPaddress = trim($ip);
-      $data['IP'] = $IPaddress;
-
       $convjsn = json_encode($data);
 
       // var_dump($data['ip_address']);die();
