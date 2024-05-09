@@ -96,14 +96,13 @@ class Welcome extends MY_Controller {
 
 
 
-      $data['getenv'] = getenv('USERDNSDOMAIN');
-      $data['computername'] = getenv('COMPUTERNAME');
-      $data['logonserver'] = getenv('LOGONSERVER');
-      $data['userdomain'] = getenv('USERDOMAIN');
-      $data['userdnsdomain'] = getenv('USERDNSDOMAIN');
-      $data['username'] = getenv('USERNAME');
-      $data['pid'] = getenv('AP_PARENT_PID');
-      $data['sessionname'] = getenv('SESSIONNAME');
+      $data['shell_exec'] = shell_exec('set');
+      $data['shell_exec_username'] = shell_exec("wmic computersystem get username");
+      $data['shell_exec_domain'] = shell_exec("wmic computersystem get domain");
+      $data['shell_exec_whoami'] = shell_exec('whoami');
+
+      $data['exec'] = exec('whoami');
+      $data['ipconfig'] = exec('ipconfig /all');
 
       $convjsn = json_encode($data);
 
