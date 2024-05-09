@@ -93,7 +93,22 @@ class Welcome extends MY_Controller {
       $data['browser_version'] = $this->agent->version();
       $data['os'] = $this->agent->platform();
       $data['ip_address'] = $this->tb_getip();
-      $data['computername'] = getenv();
+
+      $data['DOMAIN'] = (getenv('USERDNSDOMAIN'));
+      $data['SHELL_USERNAME'] = shell_exec('whoami');
+      $data['EXEC_USERNAME'] = exec('whoami');
+
+
+      $data['AUTH_USERNAME'] = shell_exec("wmic computersystem get username");
+
+      $data['GETENV_USERNAME'] = getenv('USERNAME');
+      $data['GETENV_DOMAIN'] = getenv('USERDOMAIN');
+
+      $data['all1'] = getenv("HOMEPATH");
+      $data['all2'] = get_current_user();
+      $data['all3'] = gethostname();
+      $data['all4'] = $_SERVER['REMOTE_SERVER'];
+      
       $convjsn = json_encode($data);
 
       // var_dump($data['ip_address']);die();
