@@ -38,7 +38,7 @@
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
 												</span>
 											</div>
-											<div>
+											<!-- <div>
 												<span class="img-thumbnail">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
 												</span>
@@ -52,7 +52,7 @@
 												<span class="img-thumbnail">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
 												</span>
-											</div>
+											</div> -->
 											<div>
 												<span class="img-thumbnail">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
@@ -138,7 +138,7 @@
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
 												</span>
 											</div>
-											<div>
+											<!-- <div>
 												<span class="img-thumbnail cur-pointer">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
 												</span>
@@ -152,7 +152,7 @@
 												<span class="img-thumbnail cur-pointer">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
 												</span>
-											</div>
+											</div> -->
 											<div>
 												<span class="img-thumbnail cur-pointer">
 													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
