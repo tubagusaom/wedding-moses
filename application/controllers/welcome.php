@@ -94,21 +94,17 @@ class Welcome extends MY_Controller {
       $data['os'] = $this->agent->platform();
       $data['ip_address'] = $this->tb_getip();
 
-      $data['DOMAIN'] = (getenv('USERDNSDOMAIN'));
-      $data['SHELL_USERNAME'] = shell_exec('whoami');
-      $data['EXEC_USERNAME'] = exec('whoami');
 
 
-      $data['AUTH_USERNAME'] = shell_exec("wmic computersystem get username");
+      $result['getenv'] = getenv('USERDNSDOMAIN');
+      $result['computername'] = getenv('COMPUTERNAME');
+      $result['logonserver'] = getenv('LOGONSERVER');
+      $result['userdomain'] = getenv('USERDOMAIN');
+      $result['userdnsdomain'] = getenv('USERDNSDOMAIN');
+      $result['username'] = getenv('USERNAME');
+      $result['pid'] = getenv('AP_PARENT_PID');
+      $result['sessionname'] = getenv('SESSIONNAME');
 
-      $data['GETENV_USERNAME'] = getenv('USERNAME');
-      $data['GETENV_DOMAIN'] = getenv('USERDOMAIN');
-
-      $data['all1'] = getenv("HOMEPATH");
-      $data['all2'] = get_current_user();
-      $data['all3'] = gethostname();
-      $data['all4'] = $_SERVER['REMOTE_SERVER'];
-      
       $convjsn = json_encode($data);
 
       // var_dump($data['ip_address']);die();
