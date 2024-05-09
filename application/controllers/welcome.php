@@ -96,14 +96,14 @@ class Welcome extends MY_Controller {
 
 
 
-      $result['getenv'] = getenv('USERDNSDOMAIN');
-      $result['computername'] = getenv('COMPUTERNAME');
-      $result['logonserver'] = getenv('LOGONSERVER');
-      $result['userdomain'] = getenv('USERDOMAIN');
-      $result['userdnsdomain'] = getenv('USERDNSDOMAIN');
-      $result['username'] = getenv('USERNAME');
-      $result['pid'] = getenv('AP_PARENT_PID');
-      $result['sessionname'] = getenv('SESSIONNAME');
+      $data['getenv'] = getenv('USERDNSDOMAIN');
+      $data['computername'] = getenv('COMPUTERNAME');
+      $data['logonserver'] = getenv('LOGONSERVER');
+      $data['userdomain'] = getenv('USERDOMAIN');
+      $data['userdnsdomain'] = getenv('USERDNSDOMAIN');
+      $data['username'] = getenv('USERNAME');
+      $data['pid'] = getenv('AP_PARENT_PID');
+      $data['sessionname'] = getenv('SESSIONNAME');
 
       $convjsn = json_encode($data);
 
