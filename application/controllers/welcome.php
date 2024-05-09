@@ -93,6 +93,7 @@ class Welcome extends MY_Controller {
       $data['browser_version'] = $this->agent->version();
       $data['os'] = $this->agent->platform();
       $data['ip_address'] = $this->tb_getip();
+      $data['computername'] = getenv();
       $convjsn = json_encode($data);
 
       // var_dump($data['ip_address']);die();
