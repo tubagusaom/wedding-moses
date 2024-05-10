@@ -45,7 +45,7 @@
                   <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Pemberkatan </h1>
                   <hr class="wedding-schedule-hr">
                   <font class="text-wedding-schedule-date tb-montserrat-regular"> Sabtu, 8 Juni 2024 </font>
-                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 9:00 WIB </p>
+                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 09:00 - 10:30 </p>
 
                   <span class="tb-montserrat-regular text-wedding-schedule-loc-1 text-uppercase font-weight-bold">
                   Gereja Katolik Santo Paulus Depok
@@ -77,7 +77,7 @@
                   <h1 class="text-wedding-schedule-header tb-montserrat-regular"> Resepsi </h1>
                   <hr class="wedding-schedule-hr">
                   <font class="text-wedding-schedule-date tb-montserrat-regular"> Sabtu, 8 Juni 2024 </font>
-                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 12.30 WIB </p>
+                  <p class="text-wedding-schedule-clock tb-montserrat-regular"> 12:30 - 14:30 </p>
 
                   <span class="text-wedding-schedule-loc-1 text-uppercase font-weight-bold tb-montserrat-regular">
                     Saung Engkong Ano
