@@ -33,7 +33,15 @@
 
              <p class="tb-montserrat-regular fz-fbx-2">
              Brigita Nugrahani Putri
+
+             <font class="tb-montserrat-regular" style="font-size:16px;">
+                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
+                  S.Ikom
+                </a>
+              </font>
              </p>
+
+             
 
              <span class="text-uppercase fz-fbx-1 text-color-primary font-weight-semibold tb-montserrat-medium">
                MEMPELAI WANITA
@@ -67,6 +75,11 @@
                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
                Moses Prastio Soepardi
                </a>
+               <font class="tb-montserrat-regular" style="font-size:16px;">
+                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
+                  A.Md
+                </a>
+              </font>
                <!-- Tubagus Aom <br>
                Somadiningrat <br>
                Wijaya Kusuma -->
@@ -159,7 +172,7 @@
               <font class="text-name-pm text-color-primary">
                 Moses
               </font>
-              <!-- <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font> -->
+              <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font>
             </h2>
 
             <p class="tb-montserrat-regular">
