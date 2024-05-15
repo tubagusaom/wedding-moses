@@ -329,7 +329,7 @@
 .the-wedding-white.section {
 	/* background: #fff!important; */
 	background: url(../../img/demos/wedding/background_popup.png);
-	background-size: 1500px;
+	background-size: 2000px;
 	background-repeat: no-repeat;
 	border: none;
 	z-index: 0;
@@ -344,6 +344,15 @@
 @media (min-width: 601px) {
 	.terabytee-thumb-gallery {
 		display: none!important;
+	}
+	.owl-item {
+		width: 373.75px!important;
+	}
+	.owl-stage{
+		width: 6620px!important;
+	}
+	.owl-stage-outer{
+		margin-left: -350px;
 	}
 }
 

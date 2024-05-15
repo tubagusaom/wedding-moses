@@ -130,7 +130,7 @@
               <font class="text-name-pm text-color-primary">Putri</font>
             </h2>
             <p class="tb-montserrat-regular">
-            Brigita Nugrahani Putri
+            Brigita Nugrahani Putri S.Ikom
             </p>
             <span class="text-uppercase text-color-primary font-weight-semibold tb-montserrat-medium">
               MEMPELAI WANITA
@@ -172,12 +172,12 @@
               <font class="text-name-pm text-color-primary">
                 Moses
               </font>
-              <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font>
+              <!-- <font class="text-name-tb" style="font-size:16px;"><a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">( Ebe )</a></font> -->
             </h2>
 
             <p class="tb-montserrat-regular">
               <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
-              Moses Prastio Soepardi
+              Moses Prastio Soepardi A.Md
               </a>
             </p>
 

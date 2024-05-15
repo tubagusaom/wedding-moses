@@ -231,32 +231,34 @@ color: white;
             <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
-                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia.</p>
+                  <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg pb-xlg">
+                  Bukan kamu yang memilih Aku, tetapi Akulah yang memilih kamu. Dan Aku telah menetapkan kamu, supaya kamu pergi dan menghasilkan buah dan buahmu itu tetap, supaya apa yang kamu minta kepada Bapa dalam nama-Ku, diberikan-Nya kepadamu.
+                  </p>
                 </blockquote>
                 <div class="testimonial-author mt-xlg mb-xlg pb-lg">
                   <p class="text-uppercase">
-                    <strong class="custom-text-color-2">Matius 19:6</strong>
+                    <strong class="custom-text-color-2">Yohanes 15 : 16</strong>
                   </p>
                 </div>
               </div>
             </div>
 
-            <!-- <div>
+            <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
                   <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg">
-                    Anjuran-anjuran Rasulullah untuk Menikah: Rasulullah SAW bersabda: "Nikah itu sunnahku, barangsiapa yang tidak suka, bukan golonganku!
+                  Demikianlah mereka bukan lagi dua, melainkan satu. Karena itu, apa yang telah dipersatukan Allah, tidak boleh diceraikan manusia.
                   </p>
                 </blockquote>
                 <div class="testimonial-author mt-xlg mb-xlg pb-lg">
                   <p class="text-uppercase">
                     <strong class="custom-text-color-2">
-                      (HR. Ibnu Majah, dari Aisyah r.a.)
+                    Matius 19 : 6
                     </strong>
                   </p>
                 </div>
               </div>
-            </div> -->
+            </div>
 
           </div>
           <div class="custom-inner-border"></div>
