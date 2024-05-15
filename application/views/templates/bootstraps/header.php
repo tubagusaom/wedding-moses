@@ -70,7 +70,7 @@
 		<link rel="stylesheet" href="<?=base_url()?>_assets/css/custom.css">
 
 		<!-- Animasi -->
-    <!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
+    	<!-- <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" /> -->
 
 		<!-- Bootstrap Icon -->
 		<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" />
@@ -106,8 +106,8 @@
 			// }
 		?>
 
-<!-- <script src="<?php echo base_url() ?>_assets/js/onkeydown.js" type="text/javascript"></script> -->
-		<script src="<?=base_url()?>_assets/vendor/_tera_byte/js/cek_resolusi_layar.js"></script>
+		<!-- <script src="<?php echo base_url() ?>_assets/js/onkeydown.js" type="text/javascript"></script> -->
+		<!-- <script src="<?=base_url()?>_assets/vendor/_tera_byte/js/cek_resolusi_layar.js"></script> -->
 
 		<script type="text/javascript">
 			// var width = screen.width;
