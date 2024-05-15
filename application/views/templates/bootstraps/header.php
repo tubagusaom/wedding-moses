@@ -106,7 +106,7 @@
 			// }
 		?>
 
-<script src="<?php echo base_url() ?>_assets/js/onkeydown.js" type="text/javascript"></script>
+<!-- <script src="<?php echo base_url() ?>_assets/js/onkeydown.js" type="text/javascript"></script> -->
 		<!-- <script src="<?=base_url()?>_assets/vendor/_tera_byte/js/cek_resolusi_layar.js"></script> -->
 
 		<script type="text/javascript">

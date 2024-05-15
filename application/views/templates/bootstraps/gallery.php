@@ -17,100 +17,100 @@
                 
 								<div class="col-md-12">
 									<div class="thumb-gallery">
-										<div class="owl-carousel owl-theme manual thumb-gallery-detail" id="thumbGalleryDetail2">
+										<div class="owl-carousel owl-theme manual thumb-gallery-detail terabytee-thumb-gallery" id="thumbGalleryDetail2">
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/2.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/2.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/3.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/3.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/4.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/4.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
 												</span>
 											</div>
 											<!-- <div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/7.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/7.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
 												</span>
 											</div> -->
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
 												</span>
 											</div>
 										</div>
@@ -120,97 +120,97 @@
 										<div class="owl-carousel owl-theme manual thumb-gallery-thumbs mt" id="thumbGalleryThumbs2">
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/2.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/2.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/3.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/3.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/4.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/4.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/5.jpg" class="img-responsive">
 												</span>
 											</div>
 											<!-- <div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/6.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/7.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/7.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/8.jpg" class="img-responsive">
 												</span>
 											</div> -->
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/9.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/10.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/11.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/12.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/13.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/14.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/15.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/16.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/17.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/18.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/19.jpg" class="img-responsive">
 												</span>
 											</div>
 											<div>
 												<span class="img-thumbnail cur-pointer">
-													<img alt="Project Image" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
+													<img alt="wedding" src="<?=base_url()?>_assets/img/prewed-moses/20.jpg" class="img-responsive">
 												</span>
 											</div>
 										</div>

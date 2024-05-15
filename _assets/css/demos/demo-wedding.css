@@ -341,6 +341,12 @@
 	}
 }
 
+@media (min-width: 601px) {
+	.terabytee-thumb-gallery {
+		display: none!important;
+	}
+}
+
 .the-wedding.section {
 	background: #AEC9C0;
 	border: none;
