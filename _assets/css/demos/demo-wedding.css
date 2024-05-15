@@ -335,6 +335,12 @@
 	z-index: 0;
 }
 
+@media (max-width: 601px) {
+	.the-wedding-white.section {
+		background-size: 1000px;
+	}
+}
+
 .the-wedding.section {
 	background: #AEC9C0;
 	border: none;
