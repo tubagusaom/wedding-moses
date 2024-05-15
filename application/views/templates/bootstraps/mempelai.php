@@ -32,13 +32,13 @@
              <!-- <font class="text-name-tb" style="font-size:14px;"> ( Mia ) </font> -->
 
              <p class="tb-montserrat-regular fz-fbx-2">
-             Brigita Nugrahani Putri
+             Brigita Nugrahani <br> Putri S.Ikom
 
-             <font class="tb-montserrat-regular" style="font-size:16px;">
+             <!-- <font class="tb-montserrat-regular">
                 <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
-                  S.Ikom
+                  
                 </a>
-              </font>
+              </font> -->
              </p>
 
              
@@ -73,13 +73,13 @@
 
              <p class="tb-montserrat-regular fz-fbx-2">
                <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
-               Moses Prastio Soepardi
+                Moses Prastio <br> Soepardi A.Md
                </a>
-               <font class="tb-montserrat-regular" style="font-size:16px;">
+               <!-- <font class="tb-montserrat-regular" style="font-size:16px;">
                 <a href="http://terabytee.my.id" target="_blank" style="text-decoration:none;color:#777777">
-                  A.Md
+                  
                 </a>
-              </font>
+              </font> -->
                <!-- Tubagus Aom <br>
                Somadiningrat <br>
                Wijaya Kusuma -->
