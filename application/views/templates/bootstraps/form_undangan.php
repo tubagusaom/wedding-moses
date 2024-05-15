@@ -18,7 +18,7 @@
 
 <div class="container">
   <h2>Form undangan</h2>
-  <p>Input nama tamu undangan untuk mengundang & input nama pasangannya (Jika ada), <br> Nah , klo udah klik tombol copy link ya ;)</p><br>
+  <p>Input nama tamu undangan untuk mengundang & input nama pasangannya (Kalo ada), <br> Nah , klo udah klik tombol copy link ya ;)</p><br>
   <form>
     <div class="form-group">
       <label for="usr">Tamu Undangan:</label>
