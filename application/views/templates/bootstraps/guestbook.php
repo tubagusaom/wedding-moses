@@ -243,7 +243,7 @@ color: white;
               </div>
             </div>
 
-            <div>
+            <!-- <div>
               <div class="testimonial testimonial-style-2 testimonial-with-quotes custom-wedding-quotes mb-none mt-xlg pt-xlg pl-xlg pr-xlg">
                 <blockquote>
                   <p class="font-weight-normal custom-text-color-1 font-size-lg mb-xlg">
@@ -258,7 +258,7 @@ color: white;
                   </p>
                 </div>
               </div>
-            </div>
+            </div> -->
 
           </div>
           <div class="custom-inner-border"></div>
