@@ -345,13 +345,21 @@
 	.terabytee-thumb-gallery {
 		display: none!important;
 	}
-	.owl-item {
+	.thumb-gallery .owl-item {
 		width: 373.75px!important;
 	}
-	.owl-stage{
+	.thumb-gallery .owl-stage{
 		width: 6620px!important;
 	}
-	.owl-stage-outer{
+}
+
+@media(min-width:601px) and (max-width: 992px){
+	.thumb-gallery .owl-stage-outer{
+		margin-left: -250px;
+	}
+}
+@media (min-width: 992px) {
+	.thumb-gallery .owl-stage-outer{
 		margin-left: -350px;
 	}
 }
