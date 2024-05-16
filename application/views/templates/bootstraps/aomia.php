@@ -95,7 +95,7 @@
         </div> -->
 
         <div class="description_card tb-quicksand center" style="letter-spacing:2px;">
-        Dan diatas semuanya itu: kenakanlah kasih, sebagai pengikat yang mempersatukan dan menyempurnakan. Hendaklah damai Sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.
+        Dan diatas semuanya itu: kenakanlah kasih, sebagai pengikat yang mempersatukan dan menyempurnakan. Hendaklah damai sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kamu telah dipanggil menjadi satu tubuh. Dan bersyukurlah.
         </div>
       </div>
     </div>
