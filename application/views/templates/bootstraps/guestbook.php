@@ -190,7 +190,7 @@ color: white;
                         <!-- 1 hari, 6 jam yang lalu -->
                         <?=$value["datetime"];?>
                       </span>
-                      <span style="font-weight:700;">
+                      <span style="font-weight:700;padding-left:40px;">
                         <?=$value["message"]?>
                       </span>
                     </p>
